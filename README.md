@@ -2,7 +2,7 @@
 
 Python Backend Engineer based in Vienna, Austria. I build reliable APIs and workflow-heavy business systems with Python, Django REST Framework, FastAPI, PostgreSQL, Redis, Celery, and Docker.
 
-I am currently studying Statistics and Data Analytics at the University of Vienna and am open to part-time working-student roles (20-30 hours/week) in Vienna or remote within Austria.
+I am currently studying Statistics and Data Analytics at the University of Vienna and am open to part-time working-student roles in Vienna or remote within Austria.
 
 ## What I build
 
