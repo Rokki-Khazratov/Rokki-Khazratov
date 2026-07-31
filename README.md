@@ -1,29 +1,53 @@
-# Hi, I'm Shamshodbek Khazratov 👋
+# Shamshodbek Khazratov — Python Backend Engineer
 
-Python Backend Engineer based in Vienna, Austria. I build reliable APIs and workflow-heavy business systems with Python, Django REST Framework, FastAPI, PostgreSQL, Redis, Celery, and Docker.
+I build business systems where the backend has to reflect real operations: permissions, deadlines, documents, audit trails, background jobs, reporting, and decision-making. Based in Vienna; studying Statistics and Data Analytics at the University of Vienna; available for a working-student role (20–30 hours/week), starting immediately.
 
-I am currently studying Statistics and Data Analytics at the University of Vienna and am open to part-time working-student roles in Vienna or remote within Austria.
+## Featured projects
 
-## What I build
+### [ExamTwin — adaptive exam-preparation platform](https://github.com/Rokki-Khazratov/portfolio-case-studies/tree/main/examtwin)
 
-- Backend services and REST APIs with clear domain models and role-based access control
-- Operational systems for workflows involving approvals, deadlines, documents, and reporting
-- Background processing with Celery / Redis and production-minded Docker / Linux deployment
-- Pragmatic full-stack product surfaces with React, Next.js, and TypeScript
+An exam simulation product designed to turn preparation into a measurable feedback loop. A student selects a subject and context, configures a mock exam, completes a focused session, then receives review and analytics.
 
-## Selected case studies
+- **Product flow:** subject and context → exam configuration → timed attempt → answers and review → performance analytics
+- **Backend focus:** FastAPI APIs, PostgreSQL with `pgvector`, Redis, Dramatiq workers, and object storage for asynchronous artifact generation
+- **AI boundary:** optional grounded evaluation using curated materials; the core exam flow remains usable without the AI component
+- **Why it matters:** makes weak areas visible through structured practice rather than only showing a final score
 
-- [ExamTwin](https://github.com/Rokki-Khazratov/portfolio-case-studies/tree/main/examtwin) — adaptive exam-preparation product: exam lifecycle, analytics, background artifacts, and optional grounded AI.
-- [Tender ERP](https://github.com/Rokki-Khazratov/portfolio-case-studies/tree/main/tender-erp) — role-aware tender operations: deals, permissions, auditability, notifications, and reporting.
-- [MenuMargin AI](https://github.com/Rokki-Khazratov/portfolio-case-studies/tree/main/menumargin-ai) — restaurant margin decision support with forecast and scenario layers.
+![ExamTwin dashboard](https://raw.githubusercontent.com/Rokki-Khazratov/portfolio-case-studies/main/examtwin/assets/dashboard.jpg)
 
-Each case study includes a business explanation, system design, safe product visuals where available, and an editable Excalidraw architecture diagram.
+### [Tender ERP — tender operations and workflow system](https://github.com/Rokki-Khazratov/portfolio-case-studies/tree/main/tender-erp)
 
-## Core stack
+A role-aware ERP case study for teams running tenders with clients, suppliers, finance, documents, deadlines, and approvals in one operational workflow.
 
-`Python` · `Django REST Framework` · `FastAPI` · `PostgreSQL` · `Redis` · `Celery` · `Docker` · `REST APIs` · `RBAC` · `React` · `Next.js`
+- **Business problem:** tender work becomes unreliable when ownership, documents, calculations, and deadlines live across spreadsheets and chats
+- **System design:** React + TypeScript client, Django REST API, relational domain model, RBAC, audit events, Celery background work, notification boundary, and reporting layer
+- **Operational capabilities:** deal and stakeholder records, task/deadline tracking, document handling, financial context, permission-scoped views, and traceable changes
+- **Engineering principle:** the public repository contains a safe presentation of the architecture and product decisions; sensitive source and business data are intentionally excluded
 
-## Let's connect
+### [MenuMargin AI — restaurant margin decision support](https://github.com/Rokki-Khazratov/portfolio-case-studies/tree/main/menumargin-ai)
+
+A decision-support prototype for restaurant operators: forecast cost pressure, test a menu-price scenario, and see the potential impact on gross margin before making a change.
+
+- **Product flow:** capture menu economics → obtain forecast/context inputs → run a price scenario → compare baseline and proposed margin
+- **System design:** Next.js dashboard, FastAPI decision service, scenario layer, forecast-service boundary, and external economic-cost context
+- **Decision output:** transparent assumptions and scenario comparison rather than a black-box recommendation
+- **Scope note:** this is a demo/prototype using illustrative data; it is not production financial advice
+
+![MenuMargin AI forecast dashboard](https://raw.githubusercontent.com/Rokki-Khazratov/portfolio-case-studies/main/menumargin-ai/assets/forecast-dashboard.png)
+
+## Portfolio case studies
+
+Every case study is written as a technical product brief: business context, core workflows, system design, stack choices, safe screenshots, and an editable Excalidraw architecture diagram.
+
+→ [Open all project case studies](https://github.com/Rokki-Khazratov/portfolio-case-studies)
+
+## Engineering focus
+
+`Python` · `Django REST Framework` · `FastAPI` · `PostgreSQL` · `Redis` · `Celery` · `Docker` · `REST APIs` · `RBAC` · `React` · `Next.js` · `TypeScript`
+
+I am especially interested in backend roles where a clear domain model and reliable workflow automation materially improve how a team operates.
+
+## Contact
 
 - LinkedIn: [bek-khazratov](https://www.linkedin.com/in/bek-khazratov-751954225/)
-- Portfolio case studies: [github.com/Rokki-Khazratov/portfolio-case-studies](https://github.com/Rokki-Khazratov/portfolio-case-studies)
+- Portfolio: [Rokki-Khazratov/portfolio-case-studies](https://github.com/Rokki-Khazratov/portfolio-case-studies)
