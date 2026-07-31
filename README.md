@@ -13,8 +13,6 @@ An exam simulation product designed to turn preparation into a measurable feedba
 - **AI boundary:** optional grounded evaluation using curated materials; the core exam flow remains usable without the AI component
 - **Why it matters:** makes weak areas visible through structured practice rather than only showing a final score
 
-![ExamTwin dashboard](https://raw.githubusercontent.com/Rokki-Khazratov/portfolio-case-studies/main/examtwin/assets/dashboard.jpg)
-
 ### [Tender ERP — tender operations and workflow system](https://github.com/Rokki-Khazratov/portfolio-case-studies/tree/main/tender-erp)
 
 A role-aware ERP case study for teams running tenders with clients, suppliers, finance, documents, deadlines, and approvals in one operational workflow.
@@ -33,11 +31,9 @@ A decision-support prototype for restaurant operators: forecast cost pressure, t
 - **Decision output:** transparent assumptions and scenario comparison rather than a black-box recommendation
 - **Scope note:** this is a demo/prototype using illustrative data; it is not production financial advice
 
-![MenuMargin AI forecast dashboard](https://raw.githubusercontent.com/Rokki-Khazratov/portfolio-case-studies/main/menumargin-ai/assets/forecast-dashboard.png)
-
 ## Portfolio case studies
 
-Every case study is written as a technical product brief: business context, core workflows, system design, stack choices, safe screenshots, and an editable Excalidraw architecture diagram.
+Every case study is written as a technical product brief: business context, core workflows, system design, stack choices, and an editable Excalidraw architecture diagram.
 
 → [Open all project case studies](https://github.com/Rokki-Khazratov/portfolio-case-studies)
 
