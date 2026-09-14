@@ -6,6 +6,7 @@ I build production systems with Python, Django/FastAPI, PostgreSQL and React/Nex
 
 ## Selected projects
 
+- **[OfferFly](https://github.com/Rokki-Khazratov/portfolio-case-studies/blob/main/offerfly/README.md)** — Founder & CTO of an evidence-first AI voice interviewing platform with **2 B2B pilot clients**, **94 API routes**, **30 data models** and **199 passing checks**.
 - **[GeoAgro](https://github.com/Rokki-Khazratov/portfolio-case-studies/blob/main/geoagro/README.md)** — nationwide agriculture platform: **44,165 plantations**, **38,378 farms**, **627,689 map points**, **98,678 images**, **13 regions** and a **3-level** moderation workflow; Backend Engineer → Team Lead.
 - **[Tender ERP](https://github.com/Rokki-Khazratov/portfolio-case-studies/blob/main/tender-erp/README.md)** — production React + Django system that moved tender operations from Excel and Telegram into one role-aware workflow; **25 targeted tests** cover its core API behavior.
 - **[School CRM](https://github.com/Rokki-Khazratov/portfolio-case-studies/blob/main/school-crm/README.md)** — solo full-stack CRM for **1 private school**, **150 students**, **4 users**, **2 managers** and **600+** recorded transactions.
