@@ -1,18 +1,16 @@
 # Bek Khazratov
 
-**Software Engineer · ERP & Business Automation · Vienna, Austria**  
-Statistics & Data Analytics at the University of Vienna
-
-I specialize in ERP systems and business process automation. I build tools that help teams manage day-to-day operations, automate approvals and reporting, and bring work scattered across spreadsheets and chat into one place.
+I'm a software engineer in Vienna. I build ERP systems and automate business processes such as order approvals and reporting. I study Statistics and Data Analytics at the University of Vienna.
 
 ## Selected projects
 
-- **[OfferFly](https://github.com/Rokki-Khazratov/portfolio-case-studies/blob/main/offerfly/README.md)** — Founder & CTO of an AI voice interviewing platform with **2 B2B pilot clients**. Recruiters can review interview scores alongside the transcript excerpts behind them.
-- **[GeoAgro](https://github.com/Rokki-Khazratov/portfolio-case-studies/blob/main/geoagro/README.md)** — Backend Engineer → Team Lead on Uzbekistan’s national orchard inventory. The platform maps **40,000+ orchards**, covers **30,000+ farmers**, and lets teams review field submissions before they become official records.
-- **[Tender ERP](https://github.com/Rokki-Khazratov/portfolio-case-studies/blob/main/tender-erp/README.md)** — Built an internal ERP that brought tender tracking out of spreadsheets and chat into one workspace for bids, deadlines, approvals, and notifications.
-- **[School CRM](https://github.com/Rokki-Khazratov/portfolio-case-studies/blob/main/school-crm/README.md)** — Built a tuition and student management system for a private school with **150 students** and **600+ recorded tuition transactions**.
-- **[ExamTwin](https://github.com/Rokki-Khazratov/portfolio-case-studies/blob/main/examtwin/README.md)** — Turns course materials into timed mock exams and adapts the next practice session based on previous attempts.
-- **[MenuMargin AI](https://github.com/Rokki-Khazratov/portfolio-case-studies/blob/main/menumargin-ai/README.md)** — Helps restaurants forecast ingredient costs and compare how pricing changes could affect dish margins.
+- [Sofmetal ERP](https://github.com/Rokki-Khazratov/portfolio-case-studies/blob/main/sofmetal-erp/README.md): I designed the deal approval flow for a metal distributor, from sales review through warehouse, procurement and delivery to financial close.
+- [OfferFly](https://github.com/Rokki-Khazratov/portfolio-case-studies/blob/main/offerfly/README.md): I'm the founder and CTO of an AI voice interview platform with **2 B2B pilot clients**. Recruiters can check the transcript excerpts behind each score.
+- [GeoAgro](https://github.com/Rokki-Khazratov/portfolio-case-studies/blob/main/geoagro/README.md): I went from backend engineer to team lead on Uzbekistan's national orchard inventory. The platform maps **40,000+ orchards**, covers **30,000+ farmers**, and lets staff review field submissions before they become official records.
+- [Tender ERP](https://github.com/Rokki-Khazratov/portfolio-case-studies/blob/main/tender-erp/README.md): I built an internal ERP to move tender tracking out of spreadsheets and chat. Staff can track bids and deadlines, approve deals and get updates in Telegram.
+- [School CRM](https://github.com/Rokki-Khazratov/portfolio-case-studies/blob/main/school-crm/README.md): I built a system for a private school to manage **150 students** and record **600+ tuition transactions**.
+- [ExamTwin](https://github.com/Rokki-Khazratov/portfolio-case-studies/blob/main/examtwin/README.md): It turns course materials into timed mock exams and uses earlier attempts to shape the next one.
+- [MenuMargin AI](https://github.com/Rokki-Khazratov/portfolio-case-studies/blob/main/menumargin-ai/README.md): A prototype that forecasts ingredient costs so restaurants can see how changing a dish's price affects its margin.
 
 ## Tech stack
 
