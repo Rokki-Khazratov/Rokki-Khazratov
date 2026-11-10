@@ -1,9 +1,9 @@
-# Shamshodbek Khazratov
+# Bek Khazratov
 
-**Software Engineer · Vienna, Austria**  
+**Software Engineer · ERP & Business Automation · Vienna, Austria**  
 Statistics & Data Analytics at the University of Vienna
 
-I build software for teams that need to make sense of complex data and workflows. My focus is backend engineering, from designing APIs and data models to running systems in production.
+I specialize in ERP systems and business process automation. I build tools that help teams manage day-to-day operations, automate approvals and reporting, and bring work scattered across spreadsheets and chat into one place.
 
 ## Selected projects
 
