@@ -15,14 +15,7 @@ I build software for teams that need to make sense of complex data and workflows
 
 ## Tech stack
 
-<p>
-  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" width="36" height="36" alt="Python" title="Python"></a>
-  <a href="https://www.djangoproject.com/"><img src="https://skillicons.dev/icons?i=django" width="36" height="36" alt="Django" title="Django"></a>
-  <a href="https://fastapi.tiangolo.com/"><img src="https://skillicons.dev/icons?i=fastapi" width="36" height="36" alt="FastAPI" title="FastAPI"></a>
-  <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" width="36" height="36" alt="PostgreSQL" title="PostgreSQL"></a>
-  <a href="https://redis.io/"><img src="https://skillicons.dev/icons?i=redis" width="36" height="36" alt="Redis" title="Redis"></a>
-  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" width="36" height="36" alt="Docker" title="Docker"></a>
-</p>
+### Frontend
 
 <p>
   <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" width="36" height="36" alt="TypeScript" title="TypeScript"></a>
@@ -31,7 +24,29 @@ I build software for teams that need to make sense of complex data and workflows
   <a href="https://flutter.dev/"><img src="https://skillicons.dev/icons?i=flutter" width="36" height="36" alt="Flutter" title="Flutter"></a>
 </p>
 
-[Celery](https://docs.celeryq.dev/) · [Django REST Framework](https://www.django-rest-framework.org/)
+### Backend
+
+<p>
+  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" width="36" height="36" alt="Python" title="Python"></a>
+  <a href="https://www.djangoproject.com/"><img src="https://skillicons.dev/icons?i=django" width="36" height="36" alt="Django" title="Django"></a>
+  <a href="https://www.django-rest-framework.org/"><img src="https://www.django-rest-framework.org/img/logo-light.png" height="36" alt="Django REST Framework" title="Django REST Framework"></a>
+  <a href="https://fastapi.tiangolo.com/"><img src="https://skillicons.dev/icons?i=fastapi" width="36" height="36" alt="FastAPI" title="FastAPI"></a>
+</p>
+
+### Infrastructure
+
+<p>
+  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" width="36" height="36" alt="Docker" title="Docker"></a>
+  <a href="https://docs.celeryq.dev/"><img src="https://docs.celeryq.dev/en/stable/_static/celery_512.png" width="36" height="36" alt="Celery" title="Celery"></a>
+</p>
+
+### Data
+
+<p>
+  <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" width="36" height="36" alt="PostgreSQL" title="PostgreSQL"></a>
+  <a href="https://redis.io/"><img src="https://skillicons.dev/icons?i=redis" width="36" height="36" alt="Redis" title="Redis"></a>
+</p>
+
 
 ## Contact
 
