@@ -1,6 +1,7 @@
 # Shamshodbek Khazratov
 
-**Software Engineer · Statistics & Data Analytics student at the University of Vienna · Vienna, Austria**
+**Software Engineer · Vienna, Austria**  
+Statistics & Data Analytics at the University of Vienna
 
 I build software for teams that need to make sense of complex data and workflows. My focus is backend engineering, from designing APIs and data models to running systems in production.
 
@@ -15,12 +16,10 @@ I build software for teams that need to make sense of complex data and workflows
 
 ## Tech stack
 
-<table>
-  <tr><th scope="row" align="left">Frontend</th><td><a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" width="26" height="26" alt="TypeScript" title="TypeScript"></a> <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" width="26" height="26" alt="React" title="React"></a> <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" width="26" height="26" alt="Next.js" title="Next.js"></a> <a href="https://flutter.dev/"><img src="https://skillicons.dev/icons?i=flutter" width="26" height="26" alt="Flutter" title="Flutter"></a></td></tr>
-  <tr><th scope="row" align="left">Backend</th><td><a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" width="26" height="26" alt="Python" title="Python"></a> <a href="https://www.djangoproject.com/"><img src="https://skillicons.dev/icons?i=django" width="26" height="26" alt="Django" title="Django"></a> <a href="https://fastapi.tiangolo.com/"><img src="https://skillicons.dev/icons?i=fastapi" width="26" height="26" alt="FastAPI" title="FastAPI"></a> <a href="https://www.django-rest-framework.org/" title="Django REST Framework"><img src="https://img.shields.io/badge/DRF-8D2531?style=flat-square" height="26" alt="Django REST Framework"></a></td></tr>
-  <tr><th scope="row" align="left">Infrastructure</th><td><a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" width="26" height="26" alt="Docker" title="Docker"></a> <a href="https://docs.celeryq.dev/"><img src="https://docs.celeryq.dev/en/stable/_static/celery_512.png" width="26" height="26" alt="Celery" title="Celery"></a></td></tr>
-  <tr><th scope="row" align="left">Data</th><td><a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" width="26" height="26" alt="PostgreSQL" title="PostgreSQL"></a> <a href="https://redis.io/"><img src="https://skillicons.dev/icons?i=redis" width="26" height="26" alt="Redis" title="Redis"></a></td></tr>
-</table>
+**Backend**&ensp; [![Python](https://img.shields.io/badge/Python-293344?style=flat-square&logo=python&logoColor=8BC5F4)](https://www.python.org/) [![Django](https://img.shields.io/badge/Django-293344?style=flat-square&logo=django&logoColor=81CC9C)](https://www.djangoproject.com/) [![Django REST Framework](https://img.shields.io/badge/DRF-293344?style=flat-square)](https://www.django-rest-framework.org/) [![FastAPI](https://img.shields.io/badge/FastAPI-293344?style=flat-square&logo=fastapi&logoColor=76DDD1)](https://fastapi.tiangolo.com/)  
+**Frontend**&ensp; [![TypeScript](https://img.shields.io/badge/TypeScript-293344?style=flat-square&logo=typescript&logoColor=8BC5F4)](https://www.typescriptlang.org/) [![React](https://img.shields.io/badge/React-293344?style=flat-square&logo=react&logoColor=91DBF5)](https://react.dev/) [![Next.js](https://img.shields.io/badge/Next.js-293344?style=flat-square&logo=nextdotjs&logoColor=FFFFFF)](https://nextjs.org/) [![Flutter](https://img.shields.io/badge/Flutter-293344?style=flat-square&logo=flutter&logoColor=91DBF5)](https://flutter.dev/)  
+**Infrastructure**&ensp; [![Docker](https://img.shields.io/badge/Docker-293344?style=flat-square&logo=docker&logoColor=8BC5F4)](https://www.docker.com/) [![Celery](https://img.shields.io/badge/Celery-293344?style=flat-square&logo=celery&logoColor=C0DC8A)](https://docs.celeryq.dev/)  
+**Data**&ensp; [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-293344?style=flat-square&logo=postgresql&logoColor=A5C8F1)](https://www.postgresql.org/) [![Redis](https://img.shields.io/badge/Redis-293344?style=flat-square&logo=redis&logoColor=FF9F99)](https://redis.io/)
 
 ## Contact
 
