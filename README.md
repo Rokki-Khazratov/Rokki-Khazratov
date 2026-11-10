@@ -4,9 +4,9 @@ I'm a software engineer in Vienna. I build ERP systems and automate business pro
 
 ## Selected projects
 
-- [Sofmetal ERP](https://github.com/Rokki-Khazratov/portfolio-case-studies/blob/main/sofmetal-erp/README.md): I designed the deal approval flow for a metal distributor, from sales review through warehouse, procurement and delivery to financial close.
 - [OfferFly](https://github.com/Rokki-Khazratov/portfolio-case-studies/blob/main/offerfly/README.md): I'm the founder and CTO of an AI voice interview platform with **2 B2B pilot clients**. Recruiters can check the transcript excerpts behind each score.
 - [GeoAgro](https://github.com/Rokki-Khazratov/portfolio-case-studies/blob/main/geoagro/README.md): I went from backend engineer to team lead on Uzbekistan's national orchard inventory. The platform maps **40,000+ orchards**, covers **30,000+ farmers**, and lets staff review field submissions before they become official records.
+- [Sofmetal ERP](https://github.com/Rokki-Khazratov/portfolio-case-studies/blob/main/sofmetal-erp/README.md): I designed the deal approval flow for a metal distributor, from sales review through warehouse, procurement and delivery to financial close.
 - [Tender ERP](https://github.com/Rokki-Khazratov/portfolio-case-studies/blob/main/tender-erp/README.md): I built an internal ERP to move tender tracking out of spreadsheets and chat. Staff can track bids and deadlines, approve deals and get updates in Telegram.
 - [School CRM](https://github.com/Rokki-Khazratov/portfolio-case-studies/blob/main/school-crm/README.md): I built a system for a private school to manage **150 students** and record **600+ tuition transactions**.
 - [ExamTwin](https://github.com/Rokki-Khazratov/portfolio-case-studies/blob/main/examtwin/README.md): It turns course materials into timed mock exams and uses earlier attempts to shape the next one.
